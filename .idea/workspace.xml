@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d86f4464-36b4-4a78-bd83-3cea83ba1a2f" name="Changes" comment="new homework 3" />
+    <list default="true" id="d86f4464-36b4-4a78-bd83-3cea83ba1a2f" name="Changes" comment="add hw8">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/iskanderbagautdinov/scala-tinkoff",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -80,6 +83,19 @@
       <setting name="focusEditor" value="false" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="scala-tinkoff" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="scala-tinkoff" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -89,7 +105,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702909843517</updated>
-      <workItem from="1702909844631" duration="317000" />
+      <workItem from="1702909844631" duration="1173000" />
+      <workItem from="1703084350878" duration="159000" />
     </task>
     <task id="LOCAL-00001" summary="new homework 2">
       <created>1702910081114</created>
@@ -105,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702910117971</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw7">
+      <created>1702910222472</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702910222472</updated>
+    </task>
+    <task id="LOCAL-00004" summary="delete git files">
+      <created>1702910332668</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702910332668</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +156,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new homework 2" />
     <MESSAGE value="new homework 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="new homework 3" />
+    <MESSAGE value="hw7" />
+    <MESSAGE value="delete git files" />
+    <MESSAGE value="add hw8" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw8" />
   </component>
 </project>
